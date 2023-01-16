@@ -7,8 +7,8 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | Vika | Mánudagur   | Námsefni                                | Verkefni             | Skil           |
 |------|-------------|-----------------------------------------|----------------------|----------------|
 | 1    | 9. janúar   | Kynning; form áfanga; upprifjun úr vef1 |                      |                |
-| 2    | 16. janúar  | Node.js & NPM; Testing                  | Verkefni #1          |                |
-| 3    | 23. janúar  | Express; HTTP; Form                     |                      |                |
+| 2    | 16. janúar  | Testing; Node.js & NPM                  | Verkefni #1          |                |
+| 3    | 23. janúar  | HTTP; Express; Form                     |                      |                |
 | 4    | 30. janúar  | postgres; cookies & sessions            | Verkefni #2          | Verkefni #1    |
 | 5    | 6. febrúar  | Notendaumsjón; Öryggi                   | Hópverkefni #1       |                |
 | 6    | 13. febrúar | Vefþjónustur                            | Verkefni #3          | Verkefni #2    |
@@ -46,12 +46,17 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 ### Vikur
 
-* [Vika 1, 9—15. janúar 2023](vikur/vika-01.md)
+* [Vika 1, 9.—15. janúar 2023](vikur/vika-01.md)
   * Kynning; form áfanga; upprifjun úr vef1
+* [Vika 2, 16.—22. janúar 2023](vikur/vika-02.md)
+  * Testing; Node.js & NPM
+* [Vika 3, 24.—29. janúar 2023](vikur/vika-03.md)
+  * HTTP; Express; Form
 
 ## Verkefni
 
 * [Verkefni 1](https://github.com/vefforritun/vef2-2023-v1)
+  * [Kynning í fyrirlestri](https://youtu.be/Mjrug2-LGfk)
   * Sett fyrir 16. janúar
 
 ## Hópverkefni
