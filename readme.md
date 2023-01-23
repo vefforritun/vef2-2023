@@ -5,21 +5,21 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 ## Kennsluáætlun
 
 | Vika | Mánudagur   | Námsefni                                | Verkefni             | Skil           |
-|------|-------------|-----------------------------------------|----------------------|----------------|
+| ---- | ----------- | --------------------------------------- | -------------------- | -------------- |
 | 1    | 9. janúar   | Kynning; form áfanga; upprifjun úr vef1 |                      |                |
 | 2    | 16. janúar  | Testing; Node.js & NPM                  | Verkefni #1          |                |
 | 3    | 23. janúar  | HTTP; Express; Form                     |                      |                |
-| 4    | 30. janúar  | postgres; cookies & sessions            | Verkefni #2          | Verkefni #1    |
-| 5    | 6. febrúar  | Notendaumsjón; Öryggi                   | Hópverkefni #1       |                |
+| 4    | 30. janúar  | Cookies & sessions; notendaumsjón       | Verkefni #2          | Verkefni #1    |
+| 5    | 6. febrúar  | postgres; öryggi; hýsing                | Hópverkefni #1       |                |
 | 6    | 13. febrúar | Vefþjónustur                            | Verkefni #3          | Verkefni #2    |
 | 7    | 20. febrúar | TypeScript                              | Einstaklingsverkefni |                |
 | 8    | 27. febrúar | cache, redis; framenda framework, React | Verkefni #4          | Verkefni #3    |
 | 9    | 6. mars     | React                                   | Hópverkefni #2       | Hópverkefni #1 |
 | 10   | 13. mars    | Next.js; GraphQL                        | Verkefni #5          | Verkefni #4    |
 | 11   | 20. mars    | Annað efni                              |                      |                |
-| 12   | 27. mars    | Kynningar; stoðtími                     | Verkefni #6          | Verkefni #5    |
+| 12   | 27. mars    | Kynningar; stoðtími                     |                      | Verkefni #5    |
 | 13   | 3. apríl    | **Engin tími**                          |                      |                |
-| 14   | 10. apríl   | **Páskafrí**                            |                      | Verkefni #6    |
+| 14   | 10. apríl   | **Páskafrí**                            |                      |                |
 | 15   | 17. apríl   | Kynningar; stoðtími                     |                      | Hópverkefni #2 |
 
 Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
@@ -28,9 +28,9 @@ Nánar er [fjallað um kennsluáætlun í viku 1](vikur/vika-01.md).
 
 Hvert vikublað samanstendur af:
 
-* Fyrirlestrar og lesefni fyrir vikuna.
-* Dæmi tengd fyrirlestrum og lesefni, skoða ætti og keyra dæmi meðfram uppteknum fyrirlestrum. Farið verður yfir að einhverju leiti í tíma.
-* „Verkefni vikunnar“ inniheldur tillögur að verkefnum fyrir vikuna.
+- Fyrirlestrar og lesefni fyrir vikuna.
+- Dæmi tengd fyrirlestrum og lesefni, skoða ætti og keyra dæmi meðfram uppteknum fyrirlestrum. Farið verður yfir að einhverju leiti í tíma.
+- „Verkefni vikunnar“ inniheldur tillögur að verkefnum fyrir vikuna.
 
 ## Námsefni
 
@@ -46,25 +46,28 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 ### Vikur
 
-* [Vika 1, 9.—15. janúar 2023](vikur/vika-01.md)
-  * Kynning; form áfanga; upprifjun úr vef1
-* [Vika 2, 16.—22. janúar 2023](vikur/vika-02.md)
-  * Testing; Node.js & NPM
-* [Vika 3, 24.—29. janúar 2023](vikur/vika-03.md)
-  * HTTP; Express; Form
+- [Vika 1, 9.—15. janúar 2023](vikur/vika-01.md)
+  - Kynning; form áfanga; upprifjun úr vef1
+- [Vika 2, 16.—22. janúar 2023](vikur/vika-02.md)
+  - Testing; Node.js & NPM
+- [Vika 3, 24.—29. janúar 2023](vikur/vika-03.md)
+  - HTTP; Express; Form
+- [Vika 4, 30. janúar—5. febrúar 2023](vikur/vika-04.md)
+  - Cookies & session; notendaumsjón
 
 ## Verkefni
 
-* [Verkefni 1](https://github.com/vefforritun/vef2-2023-v1)
-  * [Kynning í fyrirlestri](https://youtu.be/Mjrug2-LGfk)
-  * Sett fyrir 16. janúar
+- [Verkefni 1](https://github.com/vefforritun/vef2-2023-v1)
+  - [Kynning í fyrirlestri](https://youtu.be/Mjrug2-LGfk)
+  - Sett fyrir 16. janúar
+  - Skilast 2. febrúar
 
 ## Hópverkefni
 
-* [Hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
-  * Sett fyrir í byrjun febrúar
-* [Hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
-  * Sett fyrir í byrjun mars
+- [Hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
+  - Sett fyrir í byrjun febrúar
+- [Hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
+  - Sett fyrir í byrjun mars
 
 ## Lokaeinkunn
 

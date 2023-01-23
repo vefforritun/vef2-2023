@@ -1,0 +1,19 @@
+# Vika 4, 30. janúar–5. febrúar 2023
+
+## Námsefni
+
+Klára að fara yfir námsefni úr [viku 3](./vika-03.md).
+
+- [Cookies & sessions](../namsefni/09.cookies-session/)
+- [Notendaumsjón](../namsefni/10.users/)
+
+## Fyrirlestrar
+
+Kemur inn eftir fyrirlestur 30. janúar.
+
+## Verkefni
+
+- [ ] Verkefni úr [viku 3](./vika-03.md)
+- [ ] Fara yfir köku og session dæmi og skoða m.t.t. HTTP.
+- [ ] Fara yfir passport dæmi
+- [ ] Halda áfram með [verkefni 1](https://github.com/vefforritun/vef2-2023-v1)
