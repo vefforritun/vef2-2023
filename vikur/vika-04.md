@@ -9,7 +9,8 @@ Klára að fara yfir námsefni úr [viku 3](./vika-03.md).
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur 30. janúar.
+- [Fyrirlestur 4.1 (43:44)](https://youtu.be/F6cQ_jb_h-s)
+- [Fyrirlestur 4.2 (21:21)](https://youtu.be/tJdVRyqooxQ)
 
 ## Verkefni
 
