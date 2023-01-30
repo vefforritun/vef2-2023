@@ -17,3 +17,5 @@ Kemur inn eftir fyrirlestur 30. janúar.
 - [ ] Fara yfir köku og session dæmi og skoða m.t.t. HTTP.
 - [ ] Fara yfir passport dæmi
 - [ ] Halda áfram með [verkefni 1](https://github.com/vefforritun/vef2-2023-v1)
+  - [ ] Skila í seinasta lagi 2. febrúar
+- [ ] Skoða sýnilausn á [verkefni 2 frá 2022](https://github.com/vefforritun/vef2-2022-v2-synilausn), höldum áfram að fara yfir í viku 5 og tengist verkefni 2 sem verður sett fyrir þá
