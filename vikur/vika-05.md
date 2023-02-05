@@ -13,4 +13,4 @@ Kemur inn eftir fyrirlestur 6. febrúar.
 
 - [ ] Setja upp postgres á vél
 - [ ] Skoða sýnilausn á [verkefni 2 frá 2022](https://github.com/vefforritun/vef2-2022-v2-synilausn)
-- [ ] Byrja á [verkefni 2](https://github.com/vefforritun/vef2-2023-v2)
+- [ ] Skrá sig á [Render](https://render.com/) eða [Railway](https://railway.app/) og setja upp verkefni þar

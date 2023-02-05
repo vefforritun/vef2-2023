@@ -11,9 +11,9 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 3    | 23. janúar  | HTTP; Express; Form                     |                             |                |
 | 4    | 30. janúar  | Cookies & sessions; notendaumsjón       |                             |                |
 | 5    | 6. febrúar  | postgres; hýsing                        | Verkefni #2; Hópverkefni #1 | Verkefni #1    |
-| 6    | 13. febrúar | Öryggi; Vefþjónustur                    |                             |                |
+| 6    | 13. febrúar | Öryggi; Vefþjónustur                    | Einstaklingsverkefni        |                |
 | 7    | 20. febrúar | TypeScript                              | Verkefni #3                 | Verkefni #2    |
-| 8    | 27. febrúar | cache, redis; framenda framework, React | Einstaklingsverkefni        |                |
+| 8    | 27. febrúar | cache, redis; framenda framework, React |                             |                |
 | 9    | 6. mars     | React                                   | Verkefni #4                 | Verkefni #3    |
 | 10   | 13. mars    | Next.js; GraphQL                        | Hópverkefni #2              | Hópverkefni #1 |
 | 11   | 20. mars    | Annað efni                              | Verkefni #5                 | Verkefni #4    |
@@ -54,6 +54,10 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - HTTP; Express; Form
 - [Vika 4, 30. janúar—5. febrúar 2023](vikur/vika-04.md)
   - Cookies & session; notendaumsjón
+- [Vika 5, 6.–12. febrúar 2023](vikur/vika-05.md)
+  - postgres; hýsing
+- [Vika 6, 13.–19. febrúar 2023](vikur/vika-06.md)
+  - Öryggi; Vefþjónustur
 
 ## Verkefni
 
@@ -61,11 +65,17 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - [Kynning í fyrirlestri](https://youtu.be/Mjrug2-LGfk)
   - Sett fyrir 16. janúar
   - Skilast 2. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2023-v1-synilausn)
+- [Verkefni 2](https://github.com/vefforritun/vef2-2023-v2)
+  - [Kynning í fyrirlestri](https://youtu.be/Mjrug2-LGfk)
+  - Sett fyrir 6. febrúar
+  - Skilast 23. febrúar
 
 ## Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
-  - Sett fyrir í byrjun febrúar
+  - Sett fyrir 6. febrúar
+  - Skilast 17. mars
 - [Hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
   - Sett fyrir í byrjun mars
 
