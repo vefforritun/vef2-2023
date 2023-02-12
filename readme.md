@@ -58,8 +58,12 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - postgres; hýsing
 - [Vika 6, 13.–19. febrúar 2023](vikur/vika-06.md)
   - Öryggi; Vefþjónustur
+- [Vika 7, 20.–26. febrúar 2023](vikur/vika-07.md)
+  - TypeScript
 
 ## Verkefni
+
+### Minni verkefni
 
 - [Verkefni 1](https://github.com/vefforritun/vef2-2023-v1)
   - [Kynning í fyrirlestri](https://youtu.be/Mjrug2-LGfk)
@@ -71,7 +75,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - Sett fyrir 6. febrúar
   - Skilast 23. febrúar
 
-## Hópverkefni
+### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
   - Sett fyrir 6. febrúar
@@ -79,6 +83,15 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 - [Hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
   - Sett fyrir í byrjun mars
 
+### Einstaklingsverkefni
+
+[Einstaklingsverkefni](https://github.com/vefforritun/vef2-2023-einstaklings) sett fyrir 13. febrúar.
+
 ## Lokaeinkunn
 
-Upplýsingar um lokaeinkunn er á Canvas.
+Ekkert lokapróf, lokaeinkunn er út frá verkefnaskilum:
+
+- 50% fyrir verkefni 1–5.
+- 40% fyrir hópverkefni 1 og 2.
+- 10% fyrir einstaklingsverkefni.
+- 10% fyrir kynningu á einstaklingsverkefni (valkvæmt og til upphækkunnar).
