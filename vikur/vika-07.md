@@ -1,4 +1,4 @@
-# Vika 6, 20.–26. febrúar 2023
+# Vika 7, 20.–26. febrúar 2023
 
 ## Námsefni
 

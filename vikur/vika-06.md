@@ -7,7 +7,8 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur 13. febrúar.
+- [Fyrirlestur 6.1 (18:36)](https://youtu.be/1KuEJbJJnzw)
+- [Fyrirlestur 6.2 (22:06)](https://youtu.be/B_5Ob4m7_Uo)
 
 ## Verkefni
 

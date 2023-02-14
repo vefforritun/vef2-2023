@@ -78,6 +78,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
+  - [Kynning í fyrirlestri](https://youtu.be/aQq6OMJ91ro)
   - Sett fyrir 6. febrúar
   - Skilast 17. mars
 - [Hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
@@ -85,7 +86,8 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 ### Einstaklingsverkefni
 
-[Einstaklingsverkefni](https://github.com/vefforritun/vef2-2023-einstaklings) sett fyrir 13. febrúar.
+- [Einstaklingsverkefni](https://github.com/vefforritun/vef2-2023-einstaklings) sett fyrir 13. febrúar.
+  - [Kynning í fyrirlestri](https://youtu.be/Ojdkr6W5n6M)
 
 ## Lokaeinkunn
 
