@@ -1,6 +1,7 @@
 # Dæmi um forrit með vefþjónustuskilum
 
 ```bash
+# dropdb app-api # ef gagnagrunnur var nú þegar til
 createdb app-api
 # afrita .env.example og setja rétt DATABASE_URL
 node createdb.js
@@ -9,10 +10,10 @@ nodemon app.js
 
 Skiptum forritinu okkar upp í vel skilgreindar skrár, hver með sitt hlutverk:
 
-* `app.js` sér um vefþjóninn okkar, sækir API skil og hengir við express app
-* `api.js` útbýr API skil ofan á lógík, tengir við router og exportar
-* `items.js` exportar föllum sem vinna með gögn í gagnagrunni, lógíkin í forritinu okkar
-* `db.js` sér um tengingar við gagnagrunn
+- `app.js` sér um vefþjóninn okkar, sækir API skil og hengir við express app
+- `api.js` útbýr API skil ofan á lógík, tengir við router og exportar
+- `items.js` exportar föllum sem vinna með gögn í gagnagrunni, lógíkin í forritinu okkar
+- `db.js` sér um tengingar við gagnagrunn
 
 Til að prófa:
 

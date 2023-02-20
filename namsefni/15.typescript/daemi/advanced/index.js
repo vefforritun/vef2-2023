@@ -36,11 +36,15 @@ if (Math.random() < 0.5) {
 }
 //console.log(newProduct.title);
 //console.log(newProduct.category.title);
-console.log((_b = (_a = newProduct === null || newProduct === void 0 ? void 0 : newProduct.category) === null || _a === void 0 ? void 0 : _a.title) !== null && _b !== void 0 ? _b : null);
+//console.log();
+var title = (_b = (_a = newProduct === null || newProduct === void 0 ? void 0 : newProduct.category) === null || _a === void 0 ? void 0 : _a.title) !== null && _b !== void 0 ? _b : null;
+if (title) {
+    document.title = title;
+}
 // ----
 // Í strict mode verðum við að skilgreina týpur
 function greet(name) {
-    return "hello, " + name;
+    return "hello, ".concat(name);
 }
 var worldGreeting = greet('world');
 var greeting = greet('óli');

@@ -6,19 +6,26 @@
  * tsc index.ts
  */
 
-function greet(name: string): string {
-
-  return `hello, ${name}`;
+function makeString(a: string): string {
+  if (a) {
+    return "1";
+  }
+  return a + "foo";
 }
 
-const worldGreeting = greet('world');
-const greeting = greet('óli');
+function greet(name: string): string {
+  return `hello, ${name}`;
+}
+const foo = makeString("foo");
+
+const worldGreeting = greet(foo);
+const greeting = greet("óli");
 
 console.log(worldGreeting);
 console.log(greeting);
 
 // TypeScript bannar okkur þetta ef við setjum type á `name` argument í greet
-const invalidGreeting = greet('1');
+const invalidGreeting = greet("1");
 console.log(invalidGreeting);
 
 function add(x: number, y: number): number {
@@ -36,7 +43,7 @@ console.log(result);
 console.log(summed);
 
 let person = {
-  name: 'nn',
+  name: "nn",
   age: 1,
 };
 
