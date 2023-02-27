@@ -9,7 +9,17 @@ Höldum áfram með React í vikum 9 og 10.
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur 27. febrúar.
+- [Fyrirlestur 8.1: TypeScript vefþjónustur, grunnur fyrir v3, part 1 (42:57)](https://youtu.be/5s0oK2Z10k4)
+- [Fyrirlestur 8.1: TypeScript vefþjónustur, grunnur fyrir v3, part 2 (42:57)](https://youtu.be/LcmX6CrhupM)
+- [Repo með því sem gert var í fyrirlestri](https://github.com/vefforritun/vef2-2023-v2-f8)
+
+## Efni nefnt í tíma
+
+- [`ts-node`](https://github.com/TypeStrong/ts-node)
+- [TypeScript type predicates](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#using-type-predicates)
+- [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)
+- [zod](https://zod.dev/)
+- [Prisma](https://www.prisma.io/)
 
 ## Verkefni
 
