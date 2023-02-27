@@ -76,6 +76,7 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
   - [Kynning í fyrirlestri](https://youtu.be/p0z71I1qOCg)
   - Sett fyrir 6. febrúar
   - Skilast 23. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2023-v2-synilausn/)
 - [Verkefni 3](https://github.com/vefforritun/vef2-2023-v3)
   - [Kynning í fyrirlestri](https://youtu.be/)
   - Sett fyrir 20. febrúar
