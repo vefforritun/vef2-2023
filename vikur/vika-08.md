@@ -11,7 +11,7 @@ Höldum áfram með React í vikum 9 og 10.
 
 - [Fyrirlestur 8.1: TypeScript vefþjónustur, grunnur fyrir v3, part 1 (42:57)](https://youtu.be/5s0oK2Z10k4)
 - [Fyrirlestur 8.1: TypeScript vefþjónustur, grunnur fyrir v3, part 2 (42:57)](https://youtu.be/LcmX6CrhupM)
-- [Repo með því sem gert var í fyrirlestri](https://github.com/vefforritun/vef2-2023-v2-f8)
+- [Repo með því sem gert var í fyrirlestri](https://github.com/vefforritun/vef2-2023-v3-f8)
 
 ## Efni nefnt í tíma
 
