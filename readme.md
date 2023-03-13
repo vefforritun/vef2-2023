@@ -15,10 +15,10 @@ Hér má nálgast allt námsefni, dæmi og verkefni í áfanganum vefforritun 2 
 | 7    | 20. febrúar | TypeScript                              | Verkefni #3                 | Verkefni #2    |
 | 8    | 27. febrúar | cache, redis; framenda framework, React |                             |                |
 | 9    | 6. mars     | React                                   | Verkefni #4                 | Verkefni #3    |
-| 10   | 13. mars    | Next.js; GraphQL                        | Hópverkefni #2              | Hópverkefni #1 |
-| 11   | 20. mars    | Annað efni                              | Verkefni #5                 | Verkefni #4    |
-| 12   | 27. mars    | Kynningar; stoðtími                     |                             |                |
-| 13   | 3. apríl    | **Engin tími**                          |                             | Verkefni #5    |
+| 10   | 13. mars    | Next.js; GraphQL                        | Hópverkefni #2              |                |
+| 11   | 20. mars    | Annað efni                              |                             | Hópverkefni #1 |
+| 12   | 27. mars    | Kynningar; stoðtími                     |                             | Verkefni #4    |
+| 13   | 3. apríl    | **Engin tími**                          |                             |                |
 | 14   | 10. apríl   | **Páskafrí**                            |                             |                |
 | 15   | 17. apríl   | Kynningar; stoðtími                     |                             | Hópverkefni #2 |
 
@@ -104,7 +104,10 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 
 Ekkert lokapróf, lokaeinkunn er út frá verkefnaskilum:
 
-- 50% fyrir verkefni 1–5.
+- 50% fyrir verkefni 1–4.
+  - Verkefni 5 fellt niður.
+  - Hvert verkefni gildir 12,5%.
 - 40% fyrir hópverkefni 1 og 2.
-- 10% fyrir einstaklingsverkefni.
+- 15% fyrir einstaklingsverkefni.
+  - Auka 5% til upphækkunnar.
 - 10% fyrir kynningu á einstaklingsverkefni (valkvæmt og til upphækkunnar).

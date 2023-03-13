@@ -11,6 +11,8 @@
 - [Fyrirlestur 9.3 Yfirferð yfir leið til lausna á verkefni 3 (37:10)](https://youtu.be/2fB08xUWVSU), tekinn upp í miðvikudagstíma
   - [`file.ts`](https://gist.github.com/osk/547678670870a20e3873032c7e855e6e#file-file-ts) sem hægt er að nota, vörpun á [`parse.js` úr sýnilausn á v1](https://github.com/vefforritun/vef2-2023-v1-synilausn/blob/main/src/lib/parse.js) yfir í TypeScript
 
+[Kóði úr fyrirlestrum 9.1 og 9.2](https://github.com/vefforritun/vef2-2023-cra).
+
 Aukalega er nánari yfirferð á React frá 2022:
 
 - [Vika 8, 2022](https://github.com/vefforritun/vef2-2022/blob/main/vikur/vika-08.md)

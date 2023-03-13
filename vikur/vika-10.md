@@ -7,9 +7,11 @@
 
 ## Fyrirlestrar
 
-Kemur inn eftir fyrirlestur 13. mars 2023.
+[Fyrirlestur 10: Áframhaldandi React yfirferð (40:14)](https://youtu.be/BYAe6L5WwVY).
+
+[Kóði úr fyrirlestri](https://github.com/vefforritun/vef2-2023-cra).
 
 ## Verkefni
 
 - [ ] Vinna í [verkefni 4](https://github.com/vefforritun/vef2-2023-v4)
-- [ ] Byrja á [hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
+- [ ] Klára [hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
