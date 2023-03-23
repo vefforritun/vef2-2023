@@ -82,16 +82,16 @@ Upptökur af efni vikunnar er sett inn í vikunni áður. Fyrirlestrarnir sjálf
 - [Verkefni 3](https://github.com/vefforritun/vef2-2023-v3)
   - Sett fyrir 20. febrúar
   - Skilast 9. mars
-- [Verkefni 3](https://github.com/vefforritun/vef2-2023-v4)
+- [Verkefni 4](https://github.com/vefforritun/vef2-2023-v4)
   - Sett fyrir 6. mars
-  - Skilast 23. mars
+  - Skilast 30. mars
 
 ### Hópverkefni
 
 - [Hópverkefni 1](https://github.com/vefforritun/vef2-2023-h1)
   - [Kynning í fyrirlestri](https://youtu.be/aQq6OMJ91ro)
   - Sett fyrir 6. febrúar
-  - Skilast 17. mars
+  - Skilast 24. mars
 - [Hópverkefni 2](https://github.com/vefforritun/vef2-2023-h2)
   - Sett fyrir í byrjun mars
 
